@@ -1,12 +1,12 @@
 const translations = {
     en: {
-        introTitle: "Hello, I'm Your Name.",
-        introSubtitle: "UX/UI Designer based in City, Country.",
+        introTitle: "Hello, I'm Hongxu Ai.",
+        introSubtitle: "Product Designer based in Singapore.",
         about: "Short introduction about yourself, your experience, skills, and interests."
     },
     zh: {
-        introTitle: "你好，我是你的名字。",
-        introSubtitle: "UX/UI设计师，现居城市，国家。",
+        introTitle: "你好，我是艾洪旭。",
+        introSubtitle: "产品设计师，现居新加坡。",
         about: "在这里简要介绍一下你的经历、技能和兴趣。"
     }
 };
